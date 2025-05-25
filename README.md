@@ -1,4 +1,4 @@
-# Termux-web-dev-setup
+# Termux-web-dev
 Repositório com configurações, scripts e projetos para desenvolvimento web direto do Termux (Android). Inclui:  
 -Configuração de ambiente (Node.js, Git, Python, etc.)  
 - Servidores locais (Live Server)  
